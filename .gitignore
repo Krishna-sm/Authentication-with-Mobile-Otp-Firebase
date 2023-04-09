@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+# 
+#   apiKey: "AIzaSyDVnewZIWSkM3rVDMweRd6oGWsp2kinzUc",
+#   authDomain: "fir-learning-56789.firebaseapp.com",
+#   databaseURL: "https://fir-learning-56789-default-rtdb.firebaseio.com",
+#   projectId: "fir-learning-56789",
+#   storageBucket: "fir-learning-56789.appspot.com",
+#   messagingSenderId: "174880297374",
+#   appId: "1:174880297374:web:ec4be53515b6b84037c68f"
+# 
